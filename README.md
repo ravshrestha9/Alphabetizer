@@ -11,3 +11,6 @@ After the steps, the program should ask for a input in the command line. Once yo
 
 ![Screenshot](https://user-images.githubusercontent.com/17435720/56081357-0a5ea180-5dd2-11e9-88a1-5d3b58401976.PNG)
 
+![Screenshot1](https://user-images.githubusercontent.com/17435720/56081465-3e869200-5dd3-11e9-9f5a-7b48dca0a429.PNG)
+
+
